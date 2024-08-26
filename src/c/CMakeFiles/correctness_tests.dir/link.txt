@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/correctness_tests.dir/correctness_tests.cpp.o  -o correctness_tests  libDpfTree.a libShamirDPF.a libUtils.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so libCoding.a libServer.a libClient.a libMultiPartyDPF.a libParams.a 

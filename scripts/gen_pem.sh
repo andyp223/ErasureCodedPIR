@@ -1,0 +1,1 @@
+aws ec2 --region us-east-1 create-key-pair --key-name coded_pir --key-type ed25519 --dry-run --key-format pem --output text > aws-east.pem

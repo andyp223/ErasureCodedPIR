@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCoding.a  CMakeFiles/Coding.dir/coding.cpp.o
+/usr/bin/ranlib libCoding.a

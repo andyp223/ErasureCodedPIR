@@ -1,0 +1,24 @@
+%module c
+%{
+#include "params.h"
+#include "client.h"
+#include "server.h"
+#include "dpf_tree.h"
+#include "shamir_dpf.h"
+#include "woodruff.h"
+#include "multiparty_dpf.h"
+#include "utils.h"
+#include "coding.h"
+%}
+
+
+%include "params.h"
+%include "client.h"
+%include "server.h"
+%include "dpf_tree.h"
+%include "shamir_dpf.h"
+%include "multiparty_dpf.h"
+%include "woodruff.h"
+%include "utils.h"
+%include "coding.h"
+%include "stdint.i"

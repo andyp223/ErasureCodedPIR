@@ -1,0 +1,2 @@
+/usr/bin/ar qc libShamirDPF.a  CMakeFiles/ShamirDPF.dir/shamir_dpf.cpp.o
+/usr/bin/ranlib libShamirDPF.a

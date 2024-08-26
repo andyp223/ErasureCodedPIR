@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMultiPartyDPF.a  CMakeFiles/MultiPartyDPF.dir/multiparty_dpf.cpp.o
+/usr/bin/ranlib libMultiPartyDPF.a

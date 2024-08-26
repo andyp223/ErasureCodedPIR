@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDpfTree.a  CMakeFiles/DpfTree.dir/dpf_tree.cpp.o
+/usr/bin/ranlib libDpfTree.a
